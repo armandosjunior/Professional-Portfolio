@@ -20,6 +20,8 @@ A portfolio of work can showcase your skills and talents to employers looking to
 ### **Mock Up:**
 ![Image of Project](./images/hw.png)
 
+---
+
 ### **Steps for future development:**
 ```
 - Tidy up HTML!
