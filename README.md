@@ -1,4 +1,4 @@
-# Professional Portfolio
+# Professional Portfolio :bust_in_silhouette:
 
 A portfolio of work can showcase your skills and talents to employers looking to fill job position. An effective portfolio highlights your strongest work as well as the thought processes behind it. This is my web portfolio page created from scratch.
 
