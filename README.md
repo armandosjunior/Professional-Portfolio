@@ -1,6 +1,8 @@
 # Professional Portfolio
 
-A portfolio of work can showcase your skills and talents to employers looking to fill a part-time or full-time position. An effective portfolio highlights your strongest work as well as the thought processes behind it. This is a web portfolio page I've created from scratch!
+A portfolio of work can showcase your skills and talents to employers looking to fill job position. An effective portfolio highlights your strongest work as well as the thought processes behind it. This is my web portfolio page created from scratch.
+
+**Deployed Site: [GitHub Pages](https://pages.github.com/)**
 
 ### **Technical Criterias met:**
 ```
@@ -10,3 +12,4 @@ A portfolio of work can showcase your skills and talents to employers looking to
 
 - Presentation of developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them.
 ```
+![Image of Project](./images/hw.png)
