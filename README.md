@@ -14,6 +14,9 @@ A portfolio of work can showcase your skills and talents to employers looking to
 
 - Presentation of developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them.
 ```
+
+---
+
 ### **Mock Up:**
 ![Image of Project](./images/hw.png)
 
